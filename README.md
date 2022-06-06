@@ -1,9 +1,9 @@
 -#SOBRE MIM
 - 👋 Olá,sou @geovanalindinha
-- 👀 Eu estou interressada 
-- 🌱 Meu email é 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Eu estou interressada estudar
+- 🌱 Meu email é geovana.candio.camargo@escola.pr.gov.br
+- 💞️ 
+- 📫 Estou aprendendo JavaScript e Scratch
 
 <!---
 geovanalindinha/geovanalindinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
